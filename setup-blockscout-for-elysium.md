@@ -177,4 +177,6 @@ WEBAPP_URL=https://elysium-explorer-blockscout.vulcanforged.com/
 JSON_RPC="https://elysium-testnet-rpc.vulcanforged.com/"
 SUPPORTED_CHAINS='[ { "title": "Elysium Mainnet", "url": "https://elysium-blockscout.vulcanforged.com/" }, { "title": "Elysium Testnet", "url": "https://elysium-explorer-blockscout.vulcanforged.com/", "test_net?": true }]'
 LINK_TO_OTHER_EXPLORERS=false
+ENABLE_RUST_VERIFICATION_SERVICE=true
+RUST_VERIFICATION_SERVICE_URL=http://127.0.0.1:8043/
 ```
