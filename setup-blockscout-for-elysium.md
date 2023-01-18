@@ -27,6 +27,18 @@ rm erlang_solutions.asc
 sudo curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 ```
 
+## run these commands
+```
+export SECRET_KEY_BASE=TnfDvU8A6glp1dFdbjAtqgYxy2oFTyw6ITF1g0b/6IoX68rfVuJZCUYwpLuGV9pB
+export DATABASE_URL=postgresql://postgres:blockscout@localhost:5432/blockscout?ssl=false
+export ETHEREUM_JSONRPC_VARIANT=parity
+export ETHEREUM_JSONRPC_HTTP_URL=https://elysium-testnet-rpc.vulcanforged.com/
+export SUBNETWORK=Elysium Testnet
+export ETHEREUM_JSONRPC_WS_URL=wss://elysium-testnet-socket.vulcanforged.com/
+export COIN_NAME=LAVA
+export COIN=LAVA
+```
+
 ## Env variables for elysium testnet
 ```
 ETHEREUM_JSONRPC_VARIANT="parity"
