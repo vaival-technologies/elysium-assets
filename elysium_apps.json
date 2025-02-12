@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Apps",
+    "links": [
+      {
+        "text": "Accelerator",
+        "url": "https://elysiumchain.tech/elysium-accelerator"
+      },
+      {
+        "text": "Swap",
+        "url": "https://swap.elysiumchain.tech/exchange/swap"
+      },
+      {
+        "text": "Bridge",
+        "url": "https://bridge.elysiumchain.tech/"
+      },
+      {
+        "text": "Faucet",
+        "url": "https://faucet.elysiumchain.tech/"
+      },
+      {
+        "text": "Agora Marketplace",
+        "url": "https://faucet.elysiumchain.tech/"
+      },
+      {
+        "text": "Launchpad",
+        "url": "https://launchpad.elysiumchain.tech/"
+      },
+      {
+        "text": "Wallet",
+        "url": "https://wallet.elysiumchain.tech/"
+      }
+    ]
+  }
+]
